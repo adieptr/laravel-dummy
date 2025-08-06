@@ -21,7 +21,7 @@ Proyek dummy laravel dengan autentikasi dan modul CRUD sederhana (album musik).
 -   `resources/views/products/` – Blade views
 -   `routes/web.php` – Routing
 
-# Akun Sample
+# Akun Sampel
 
 -   Email: `adie6809@gmail.com`
 -   Password: `12345678`
